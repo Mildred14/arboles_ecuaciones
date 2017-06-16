@@ -1,0 +1,9 @@
+C:\Users\niri\Documents\PROGRAMACION\arbol_Operaciones\arbol_Operaciones\bin\Debug\arbol_Operaciones.exe.config
+C:\Users\niri\Documents\PROGRAMACION\arbol_Operaciones\arbol_Operaciones\obj\Debug\arbol_Operaciones.csprojResolveAssemblyReference.cache
+C:\Users\niri\Documents\PROGRAMACION\arbol_Operaciones\arbol_Operaciones\obj\Debug\arbol_Operaciones.Form1.resources
+C:\Users\niri\Documents\PROGRAMACION\arbol_Operaciones\arbol_Operaciones\obj\Debug\arbol_Operaciones.Properties.Resources.resources
+C:\Users\niri\Documents\PROGRAMACION\arbol_Operaciones\arbol_Operaciones\obj\Debug\arbol_Operaciones.csproj.GenerateResource.Cache
+C:\Users\niri\Documents\PROGRAMACION\arbol_Operaciones\arbol_Operaciones\bin\Debug\arbol_Operaciones.exe
+C:\Users\niri\Documents\PROGRAMACION\arbol_Operaciones\arbol_Operaciones\bin\Debug\arbol_Operaciones.pdb
+C:\Users\niri\Documents\PROGRAMACION\arbol_Operaciones\arbol_Operaciones\obj\Debug\arbol_Operaciones.exe
+C:\Users\niri\Documents\PROGRAMACION\arbol_Operaciones\arbol_Operaciones\obj\Debug\arbol_Operaciones.pdb
